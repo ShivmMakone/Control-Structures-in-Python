@@ -1,9 +1,5 @@
 Control Structures in Python
 
-## Python Basic Tasks Repository  
-This repository contains two Python programs demonstrating control structures such as **if-else statements** and **loops**.
-
----
 
 ## Task 1: Check if a Number is Even or Odd
 ### Description:
